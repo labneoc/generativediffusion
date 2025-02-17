@@ -1,0 +1,28 @@
+Degree Centrality:
+Channel 1: 0.7727
+Channel 2: 0.5909
+Channel 3: 0.2273
+Channel 4: 0.6818
+Channel 5: 0.6818
+Channel 6: 0.6818
+Channel 7: 0.7273
+Channel 8: 0.3182
+Channel 9: 0.5909
+Channel 10: 0.5455
+Channel 11: 0.2273
+Channel 12: 0.4545
+Channel 13: 0.5909
+Channel 14: 0.6364
+Channel 15: 0.4545
+Channel 16: 0.7273
+Channel 17: 0.1818
+Channel 18: 0.7727
+Channel 19: 0.4545
+Channel 20: 0.2273
+Channel 21: 0.6818
+Channel 22: 0.3636
+Channel 23: 0.6818
+
+Modularity (Communities):
+Community 1: ['Channel 11', 'Channel 6', 'Channel 7', 'Channel 19', 'Channel 5', 'Channel 2', 'Channel 4', 'Channel 14', 'Channel 13', 'Channel 23', 'Channel 21', 'Channel 3']
+Community 2: ['Channel 9', 'Channel 20', 'Channel 16', 'Channel 18', 'Channel 12', 'Channel 15', 'Channel 17', 'Channel 1', 'Channel 8', 'Channel 10', 'Channel 22']
