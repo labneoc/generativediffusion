@@ -3,4 +3,8 @@ venv
 tuh_eeg_epilepsy
 __pycache__
 diffusion
+<<<<<<< HEAD
 process
+=======
+process
+>>>>>>> 8ae1a76 (ajustes)
